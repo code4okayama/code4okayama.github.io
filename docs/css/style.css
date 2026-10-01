@@ -128,9 +128,8 @@ h2 { color: var(--green); font-size: clamp(25px, 2.65vw, 34px); line-height: 1.7
 .contact-email { display: block; overflow-wrap: anywhere; font-size: 16px; font-weight: 700; }
 .contact-email:hover, .event-link:hover { text-decoration: underline; text-underline-offset: 4px; }
 .contact-status p { margin-top: 10px; color: #e1e8df; font-size: 12px; }
-.event-link { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 24px; font-size: 13px; font-weight: 700; }
+.event-link { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; font-size: 16px; font-weight: 700; }
 .event-status { margin-left: auto; padding: 2px 8px; border-radius: 3px; background: var(--orange); color: var(--green); font-size: 10px; }
-.join-panel > .event-note { margin-top: 8px; font-size: 11px; }
 .faq-list details { border-bottom: 1px solid var(--line); }
 .faq-list details:first-child { border-top: 1px solid var(--line); }
 .faq-list summary { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding-block: 22px; list-style: none; cursor: pointer; font-size: 14px; font-weight: 700; }
