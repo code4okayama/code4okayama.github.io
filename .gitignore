@@ -1,0 +1,6 @@
+# macOSのFinder情報・ファイルメタデータ（すべての階層）
+.DS_Store
+._*
+
+# ビルド不要の静的サイトのため、docs/内の公開ファイルとREADME.mdは管理対象。
+# GitHub Pages用のdocs/.nojekyllも除外しない。
