@@ -64,7 +64,7 @@ docs/
 
 ### 個人メンバー
 
-`class="member-grid"` 内の `article` 要素を追加・編集します。名前、所属・役職、画像、Webサイトへのリンクを設定してください。
+`class="member-grid"` 内の `article` 要素を追加・編集します。名前、団体内での役割、所属・役職、画像、Webサイトへのリンクを設定してください。団体内での役割は、名前の `h3` と所属の `ul` の間に `<p class="member-community-role">役割名</p>` を追加して表示します。記載する役割がない場合は、この要素を省略できます。
 
 画像は `docs/img/member/` に置きます。「準備中」の枠を使う場合は、`member-pending` クラスを外し、`member-placeholder` の要素を画像に差し替えてから紹介文を更新します。
 
